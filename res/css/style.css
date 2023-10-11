@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+* {
+    font-family: "VT323" , monospace;
+    user-select: none;
+}
+
+body {
+    background-image:url() ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#deathstar {
+    max-width: 200px;
+    width: 100%; 
+    margin-left: 650px ;
+    margin-top: 100px;
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+#deathstar:hover {
+    transform: scale(1.1);
+}
+
+#counter {
+    color: whitesmoke;
+    margin-left: 690px;
+    size: 50px;
+}
+
+#upgrady{
+    background-color:b ;
+}
+
+#clickUpgrade {
+    font-size: medium;
+    color: aliceblue;
+    background-color: black;
+    cursor: pointer;
+    margin-left: 500px;
+    height: 250px;
+    width: 500px;
+} 
+
+#upgrade1Text {
+    margin-left: 700px;
+    color: aliceblue;
+    background-color: black;
+    width: max-content;
+}
+
+#autoclickUpgrade{
+    font-size: medium;
+    color: aliceblue;
+    background-color: blue;
+    cursor: pointer;
+    margin-left: 500px;
+    height: 250px;
+    width: 500px;
+}
+
+#upgrade2Text {
+    margin-left: 700px;
+    color: aliceblue;
+    background-color: black;
+    width: max-content;
+}
+
+#autoclick2Upgrade{
+    font-size: medium;
+    color: aliceblue;
+    background-color: black;
+    cursor: pointer;
+    margin-left: 500px;
+    height: 250px;
+    width: 500px;
+}
+
+#upgrade3Text {
+    margin-left: 700px;
+    color: aliceblue;
+    background-color: black;
+    width: max-content;
+}
+
+#autoclick3Upgrade{
+    font-size: medium;
+    color: aliceblue;
+    background-color: black;
+    cursor: pointer;
+    margin-left: 500px;
+    height: 250px;
+    width: 500px;
+}
+
+#upgrade4Text {
+    margin-left: 670px;
+    color: aliceblue;
+    background-color: black;
+    width: max-content;
+}
+
